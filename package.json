@@ -1,0 +1,23 @@
+{
+    "name": "TimeManager Nodejs Application",
+    "main": "public/index.html",
+    "version": "0.1",
+    "maintainers": [
+        {
+            "name": "Vladimir Kozhin",
+            "email": "affka@affka.ru",
+            "web": "http://www.affka.ru"
+        }
+    ],
+    "icon": "public/images/app_icon.png",
+    "window": {
+        "title": "Time Manager",
+        "toolbar": false,
+        "frame": false,
+        "width": 300,
+        "height": 50,
+        "position": "bottom",
+        "resizable": false,
+        "always-on-top": true
+    }
+}
